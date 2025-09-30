@@ -43,17 +43,19 @@ They are organized by topics for easy navigation.
 ---
 
 ### Image Processing
-- Adrian Rosebrock - *Practical Python OpenCV 4th* (2018, mrquantran)
+- Adrian Rosebrock - *Practical Python OpenCV 4th* (2018, pyimagesearch)
 - Maria Petrou, Costas Petrou - *Image Processing. The Fundamentals* 2nd (2010, John Wiley & sons)
 - Gloria Bueno García, Oscar Deniz Suarez, José Luis Espinosa Aranda, Jesús Salido Tercero, Ismael Serrano Gracia, Noelia Vállez Enano - *Learning Image Processing with OpenCV* (Packt Publishing, 2015)
 - Rafael C. Gonzalez, Richard E. Woods - *Digital Image Processing* (4th Edition, Pearson, 2018)
 
 ---
 
-### Machine Learning - Deep Learning
+### Deep Learning - Machine Learning
+#### Deep Learning
 - Ian Goodfellow, Yoshua Bengio, Aaron Courville - *Deep Learning* (MIT Press, 2016)
 - Jakub Langr, Vladimir Bok - *GANs in Action: Deep Learning with Generative Adversarial Networks* (Manning Publications, 2019)
 - David Foster - *Generative Deep Learning* (O’Reilly Media, 2019)
+#### Machine Learning
 - Aurélien Géron - *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* (O’Reilly, 2022)
 - Hannes Hapke, Catherine Nelson - *Building Machine Learning Pipelines: Automating Model Life Cycles with TensorFlow* (O’Reilly Media, 2020)
 
