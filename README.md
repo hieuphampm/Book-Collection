@@ -30,9 +30,9 @@ They are organized by topics for easy navigation.
 ---
 
 ### Databases
-- *Mastering MySQL for Web: A Beginner's Guide*  
+- Sufyan bin Uzayr - *Mastering MySQL for Web: A Beginner's Guide* (Mercury Learning and Information, 2022)
 - Jeff Hoffer - *Modern Database Management* (13th Edition)  
-- *Practical Azure SQL Database for Modern Developers: Building Applications in the Microsoft Cloud*
+- Davide Mauri, Silvano Coriani, Anna Hoffman, Sanjay Mishra, Jovan Popovic - *Practical Azure SQL Database for Modern Developers: Building Applications in the Microsoft Cloud* (Apress, 2021)
 - Navin Sabharwal, Shakuntala Gupta Edward, *Hands On Google Cloud SQL and Cloud Spanner - Use Cases with Python*, Apress 2020
 
 ---
