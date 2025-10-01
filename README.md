@@ -7,13 +7,7 @@ They are organized by topics for easy navigation.
 
 ## Categories & Books
 
-### Combinatorics & Graph
-- Miklós Bóna - *A Walk Through Combinatorics* (5th Edition, 2023)  
-- Miklós Bóna - *Combinatorics of Permutations* (3rd Edition, 2022)  
-- Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein - *Introduction to Algorithms* (2022)  
-- Alexander A. Kurgalin, Nikolay N. Borzunov - *The Art of Programming: Algorithms and Data Structures* (2020)  
-- Shahriar - *[Book on Combinatorics/Graph Theory]* (2021)  
-- Valiente - *[Book on Graph Algorithms]* (2021)  
+
 
 ---
 
@@ -65,12 +59,23 @@ They are organized by topics for easy navigation.
 - Greg Lim - *Beginning Android Development with Kotlin* (2022–2023)
 
 ---
-
-### Probability & Statistics
+### Math
+#### Probability & Statistics
 - David Forsyth - *Probability and Statistics for Computer Science* (Springer, 2018) 
 - Jason Brownlee - *Probability for Machine Learning: Discover How to Harness Uncertainty with Python* (Machine Learning Mastery, 2020)
 - José Unpingco - *Python for Probability, Statistics, and Machine Learning* (2nd Edition, Springer, 2019) 
 
+#### Combinatorics & Graph
+- Miklós Bóna - *A Walk Through Combinatorics* (5th Edition, 2023)  
+- Miklós Bóna - *Combinatorics of Permutations* (3rd Edition, 2022)  
+- Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein - *Introduction to Algorithms* (2022)  
+- Alexander A. Kurgalin, Nikolay N. Borzunov - *The Art of Programming: Algorithms and Data Structures* (2020)  
+- Shahriar - *[Book on Combinatorics/Graph Theory]* (2021)  
+- Valiente - *[Book on Graph Algorithms]* (2021)
+
+#### Discrete Mathematics
+- Lewis-Zax, Essential Discrete Mathematics for Computer Science(2019)
+- Rosen, Discrete mathematics and its applications(2019)
 ---
 
 ### Programming Fundamentals
